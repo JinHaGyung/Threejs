@@ -1,0 +1,22 @@
+
+*{
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+}
+.textWrap{
+    top: 50%;
+    transform: translate(-50%, -50%);
+    left: 50%;
+}
+.fontStyle{
+    font-family: 'Exo 2', sans-serif;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 50px;
+}
+.fontMono{
+    font-family: 'Space Mono', monospace;
+}
+.ytrans{
+    transform: translateY(30px);
+}
