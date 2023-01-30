@@ -257,7 +257,7 @@ viewBtn.addEventListener("click",(e)=>{
         duration:1,
         delay:2,
         onComplete:()=>{
-            window.location ="https://twitter.com/home"
+            window.location ="https://portfolio-44zi683y0-jinhagyung.vercel.app/"
         }
     })
 })
